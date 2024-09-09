@@ -18,9 +18,13 @@ A Base Gamer é uma aplicação web simples e intuitiva, criada para te ajudar a
 
 **Como usar este projeto:**
 
+* **Na sua máquina:**
 1. **Clone o repositório:** Use o comando `git clone https://github.com/seu-usuario/base-gamer.git` para baixar o projeto para o seu computador.
 2. **Abra o index.html:** Abra o arquivo `index.html` em seu navegador favorito.
 3. **Comece a pesquisar:** Divirta-se explorando a sua coleção de jogos!
+
+* **Na web:**
+1. **Acesse:** `https://base-gamer.vercel.app/`
 
 **Quer contribuir?**
 
